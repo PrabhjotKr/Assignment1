@@ -1,0 +1,3 @@
+[mygit]
+url = https://f-droid.org/repository/browse/?fdid=com.grarak.kerneladiutor
+root_directory=/home/pcr/get_git/
